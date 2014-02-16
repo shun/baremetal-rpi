@@ -5,4 +5,7 @@
 #define GPSET0		0x2020001c
 #define GPCLR0		0x20200028
 
+#define SYST_CLO	0x20003004
+#define SYST_CHI	0x20003008
+
 #endif /* __PERIPHERALSADDR_H__ */
